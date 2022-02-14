@@ -34,6 +34,13 @@ table{
     text-align: justify;
     
 }
+th{
+    background-color: #6e94f5;
+}
+
+.blue-row{
+    background-color: aqua;
+}
 
 .foto{
     margin top:0;
