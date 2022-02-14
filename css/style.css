@@ -6,8 +6,6 @@ header{
     background-color: #6e94f5;
     background-image: url(/img/pattern.png);
     background-size: cover;
-
- 
 }
 
 img{
@@ -23,6 +21,11 @@ img{
 .tim{
     width: 350px;
     height: 350px;
+}
+
+.fluo{
+    background-color: yellow;
+
 }
     
     
